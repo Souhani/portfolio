@@ -38,7 +38,9 @@ const Menu = [
       stack: "Next.js / React / MongoDB / Tailwind (for the admin dashboard) / styled-components (for the main website) / stripe ...",
       special:"Focused on SEO optimization, this project leverages Next.js to create a website that excels in search engine rankings. Next.js enhances the site's performance by enabling server-side rendering and optimizing the loading speed of web pages.",
       usage: ["You can log in to the admin dashboard using this google account:", "email: souhanitry@gmail.com", "password: try123456", "To mimic making an order, you can use the following card info:", "Card number: 4242 4242 4242 4242", "Expiration: 01/25", "CVC: 000"],
-      live: [{title: "E-commerce website", url:"https://e-co-chi.vercel.app/"}, {title: "Admin Dashboard", url:"https://e-co-admin.vercel.app/"}]
+      live: [{title: "E-commerce website", url:"https://e-co-chi.vercel.app/"}, {title: "Admin Dashboard", url:"https://e-co-admin.vercel.app/"}],
+      code: [{title: "E-commerce website", url:"https://github.com/Souhani/E-commerce_Website"}, {title: "Admin Dashboard", url:"https://github.com/Souhani/E-commerce-Admin"}]
+
     },
     {
       id: 3,

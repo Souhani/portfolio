@@ -32,6 +32,7 @@ function App() {
            {/* <Blog /> */}
            <Contact />
         </main>
+        <a style={{color:"red", textAlign:"center", width:"100%" ,display:"flex", justifyContent:"center", marginBottom:"10px"}}>Made With ❤️ By Souhani</a>
       </>
        )
   };

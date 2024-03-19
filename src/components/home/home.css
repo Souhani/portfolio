@@ -24,10 +24,12 @@
     font-weight: var(--font-bold);
     margin-bottom: 0.5rem;
 }
-
-.home__socials {
+.home__social__container {
     display: flex;
     justify-content: center;
+}
+.home__socials {
+    display: flex;
     margin: 2px ;
     column-gap: 1.75rem;
 }

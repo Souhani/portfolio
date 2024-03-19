@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import './contact.css'
 import { FaEnvelopeCircleCheck } from "react-icons/fa6";
 import { MdError } from "react-icons/md";
+import HeaderSocials from "../home/HeaderSocials";
 
 const Contact = () => {
   const [name, setName] = useState("");
@@ -73,6 +74,9 @@ const Contact = () => {
          <a className="contact_links" href="mailto:souhanikarim1999@gmail.com">souhanikarim1999@gmail.com</a>
          <p className="contact__details">Or call me: </p>
          <a className="contact_links" href="tel:+212 659419845">+212 659419845</a>
+         <div>
+          <HeaderSocials />
+         </div>
         </div>
 
         <form onSubmit={(e) => sendForm(e)} className="contact__form">
