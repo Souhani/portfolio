@@ -6,6 +6,7 @@
     grid-template-columns: 4fr 9fr;
     column-gap: 1.875rem;
 }
+
 .contact_details {
 }
 .contact__title {
@@ -17,6 +18,18 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 1.5rem;
+}
+
+@media screen and (max-width: 800px) {
+    .contact__form-group {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .contact__container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
 }
 
 .contact__form-div {

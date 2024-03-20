@@ -44,6 +44,15 @@ const Menu = [
     },
     {
       id: 3,
+      images: [h1,h2,h3,h4],
+      title: "software download site",
+      category: "Havoc Software",
+      stack: "Next.js / React / MongoDB / Tailwind",
+      special:"A project I worked on as a freelancer; what makes this project special is a seamless process for users to download software or for admins to upload it effortlessly.",
+      live: [{title: "Havoc Software Website", url:"https://copy-that-delta.vercel.app/"}],
+    },
+    {
+      id: 4,
       images: [mb1,mb2,mb3],
       title: "Face and Sentiment Detection",
       category: "Magic-Brain",
@@ -51,16 +60,6 @@ const Menu = [
       special:"Powered by Docker and Docker Compose, this project simplifies backend setup with a single command. You can run Express server with PostgreSQL and Redis databases in containers, making it easier to run the code on different machines without frustration.",
       live: [{title: "Magic-Brain", url:"https://souhani.github.io/MagicBrainApp/"}],
       code: [{title: "frontend", url:"https://github.com/Souhani/MagicBrainApp/tree/main"}, {title: "backend", url:"https://github.com/Souhani/Dockerized_MagicBrainApi"}]
-    },
-    ,
-    {
-      id: 4,
-      images: [h1,h2,h3,h4],
-      title: "software download site",
-      category: "Havoc Software",
-      stack: "Next.js / React / MongoDB / Tailwind",
-      special:"A seamless process for users to download software or for admins to upload it effortlessly.",
-      live: [{title: "Havoc Software Website", url:"https://copy-that-delta.vercel.app/"}],
     }
   ];
 

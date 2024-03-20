@@ -157,7 +157,7 @@ const stack = [
     icon: SiJsonwebtokens
    },
    {
-    name: "RESTful API",
+    name: "REST API",
     percentage: 90,
     cat: ["a"],
     icon: TbApi
