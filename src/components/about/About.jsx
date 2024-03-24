@@ -13,7 +13,7 @@ const About = () => {
 
         <div className="about__data grid">
             <div className="about__info">
-              <p className="about__description">I am Abdelkarim Souhani, a full-stack web developer passionate about transforming concepts into digital solutions. Currently, I am actively seeking opportunities to contribute my expertise with a startup, business, or enterprise. With a focus on empowering teams through effective, high-performance web development, I aim to assist employers in bringing their ideas and business objectives to life using web development solutions.</p>
+              <p className="about__description">Full Stack Web Developer designing and implementing both front-end and back-end solutions. Worked on freelance and personal projects using languages such as TypeScript, JavaScript, HTML, CSS, Node.js and SQL across different technology stacks.</p>
               {/* <a href="" className="btn">Download CV</a> */}
             </div>
         </div>
