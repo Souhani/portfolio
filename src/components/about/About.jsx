@@ -12,7 +12,7 @@ const About = () => {
 
         <div className="about__data grid">
             <div className="about__info">
-              <p className="about__description">Full Stack Web Developer designing and implementing both front-end and back-end solutions. Worked on freelance and personal projects using languages such as TypeScript, JavaScript, HTML, CSS, Node.js and SQL across different technology stacks.</p>
+              <p className="about__description">As a Full Stack Web Developer, I design and implement both front-end and back-end solutions. I've actively worked on freelance and personal projects, utilizing languages like TypeScript, JavaScript, HTML, CSS, Node.js, and SQL across various technology stacks.</p>
               {/* <a href="" className="btn">Download CV</a> */}
             </div>
         </div>
