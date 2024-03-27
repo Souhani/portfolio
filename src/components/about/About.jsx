@@ -1,7 +1,6 @@
 import React from "react";
 import './about.css';
-import Me from '../../assets/avatar-1.jpg';
-import AboutBox from "./AboutBox";
+import Me from '../../assets/avatar-1.png';
 
 const About = () => {
   return (
